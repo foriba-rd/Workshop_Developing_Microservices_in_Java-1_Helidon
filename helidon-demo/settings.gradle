@@ -1,0 +1,3 @@
+rootProject.name = 'helidon-demo'
+include 'greet-mp-example', 'greet-se-example'
+

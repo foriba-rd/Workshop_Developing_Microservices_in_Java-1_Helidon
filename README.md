@@ -50,4 +50,4 @@ curl -X POST http://localhost:8080/greet/settings/OLA
      
 # Lisans
    
-Foriba Bulut API Java Test Projesi, **Foriba R&D** ekibi tarafından API kullanımını anlatmak için hazırlanmıştır, izinsiz olarak ticari uygulamalarda kullanılması yasaktır.
+"Developing Microservices in Java 1 - Helidon" projesi, **Foriba R&D** ekibi tarafından bir eğitim içeriği olarak hazırlanmıştır, izinsiz olarak ticari uygulamalarda kullanılması yasaktır.

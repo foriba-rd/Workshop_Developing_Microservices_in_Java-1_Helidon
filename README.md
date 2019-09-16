@@ -16,7 +16,7 @@ gradle wrapper (gradlew) bulunmaktadir ek Gradle kurulum gerekmemektedir ve terc
 
 **Helidon projelerinin JAR üretilmesi:**
 
-    git clone ....
+    git clone https://github.com/foriba-rd/Workshop_Developing_Microservices_in_Java-1_Helidon.git
     cd helidon-demo
     ./gradlew build    
 
